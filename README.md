@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haeya&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haeya&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeya&layout=compact&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
