@@ -1,4 +1,3 @@
-![Alt text](https://github.com/Haeya/github-stats-transparent/blob/output/generated/languages.svg)
 ![Alt text](https://github.com/Haeya/github-stats-transparent/blob/output/generated/overview.svg)
 
 
